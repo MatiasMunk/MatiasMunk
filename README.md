@@ -3,8 +3,7 @@
 # 👨🏻‍💻 About Me
 
 💡  26 year old computer game & graphics programming enthusiast, I mostly enjoy computer graphics and learning different graphics APIs\
-🎓  I'm currently studying computer science.\
-🌱  Currently learning networked programming and advanced low-level programming with C and the Vulkan graphics API, as well as D3D12 with C++\
+🌱  Currently learning networked programming and advanced low-level programming with C/C++ and the Vulkan graphics API\
 ✍️  In whatever free time I can find, I enjoy spending time with my girlfriend and watching movies.
 
 ![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=MatiasMunk&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)\
