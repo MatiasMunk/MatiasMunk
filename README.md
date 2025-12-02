@@ -2,7 +2,7 @@
 
 # 👨🏻‍💻 About Me
 
-💡  27 year old computer game & graphics programming enthusiast, I mostly enjoy computer graphics and learning different graphics APIs\
+💡  30 year old computer game & graphics programming enthusiast, I mostly enjoy computer graphics and learning different graphics APIs\
 🌱  Currently learning networked programming and advanced low-level programming with the C and C++ languages and the Vulkan graphics API\
 ✍️  In whatever free time I can find, I enjoy spending time with my girlfriend and watching movies.
 
