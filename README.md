@@ -15,7 +15,7 @@
 ![Vulkan](https://img.shields.io/badge/-Vulkan-05122A?style=flat&logo=vulkan)&nbsp;
 ![Allegro 5](https://img.shields.io/badge/-Allegro%205-05122A?style=flat&logo=dev)&nbsp;
 ![SDL](https://img.shields.io/badge/-SDL-05122A?style=flat&logo=sdl)&nbsp;
-[![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=fff)](#)
+[![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly)](#)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
